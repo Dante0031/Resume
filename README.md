@@ -18,9 +18,9 @@ Obtain a position working in an fun, challenging and fast paced environment.
                             <li>Created plans and activities for children on and off school premises.</li>
                             <li>Trained in analyzing potential hostile situations and using talk therapy.</li>
                         </ul>
-		   </p>
-	
-		    <p>Team Leader. Erik’s Bike and Board Shop | Bloomington, MN April 2012 – 2015
+</p>
+
+                    <p>Team Leader. Erik’s Bike and Board Shop | Bloomington, MN April 2012 – 2015
                         <ul>
                             <li>Assisted Supervisor of Assembly to manage employees performance.</li>
                             <li>Promoted to team leader within my first year.</li>
@@ -28,16 +28,17 @@ Obtain a position working in an fun, challenging and fast paced environment.
                             <li>Ability to adapt to a constantly changing environment and meet deadlines.</li>
                             <li>Able to work in a fast paced work environment.</li>
                         </ul>
-                            </p>
-                    <p>Customer Service. LA Fitness | Minneapolis, MN April 2011 – January 5th 2013
+                        
+                            </p1>
+                    <p>Customer Service LA Fitness | Minneapolis, MN April 2011 – January 5th 2013
                         <ul>
-                            <li>Scheduled 16 appointments a week and sold 15-20 memberships a month to meet sales goals.
-EFT clear ups</li>
+                            <li>Scheduled 16 appointments a week and sold 15-20 memberships a month to meet sales goals</li>
+			    <li>EFT clear ups</li>
                             <li>Managed account questions</li>
 			    <li>Helped with billing information.</li>
                             <li>Trained new employees on rules and procedures.</li>
                         </ul>
-</p>
+</p2>
 
                 <h2>Skills</h2>
                     <p>
