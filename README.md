@@ -19,7 +19,7 @@ Obtain a position working in an fun, challenging and fast paced environment.
                             <li>Trained in analyzing potential hostile situations and using talk therapy.</li>
                         </ul>
 		   </p>
-		   <br>
+	
 		    <p1>Team Leader. Erik’s Bike and Board Shop | Bloomington, MN April 2012 – 2015
                         <ul>
                             <li>Assisted Supervisor of Assembly to manage employees performance.</li>
