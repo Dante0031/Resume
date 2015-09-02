@@ -18,9 +18,9 @@ Obtain a position working in an fun, challenging and fast paced environment.
                             <li>Created plans and activities for children on and off school premises.</li>
                             <li>Trained in analyzing potential hostile situations and using talk therapy.</li>
                         </ul>
-</p>
-
-                    <p1>Team Leader. Erik’s Bike and Board Shop | Bloomington, MN April 2012 – 2015
+		   </p>
+		   <br>
+		    <p1>Team Leader. Erik’s Bike and Board Shop | Bloomington, MN April 2012 – 2015
                         <ul>
                             <li>Assisted Supervisor of Assembly to manage employees performance.</li>
                             <li>Promoted to team leader within my first year.</li>
@@ -29,23 +29,22 @@ Obtain a position working in an fun, challenging and fast paced environment.
                             <li>Able to work in a fast paced work environment.</li>
                         </ul>
                             </p1>
-<br>
-<br>
-                    <p2>Customer Service LA Fitness | Minneapolis, MN April 2011 – January 5th 2013
+                    <p2>Customer Service. LA Fitness | Minneapolis, MN April 2011 – January 5th 2013
                         <ul>
-                            <li>Scheduled appointments over phone.
+                            <li>Scheduled 16 appointments a week and sold 15-20 memberships a month to meet sales goals.
 EFT clear ups</li>
-                            <li>Managed account questions
-Helped with billing information.</li>
+                            <li>Managed account questions</li>
+			    <li>Helped with billing information.</li>
                             <li>Trained new employees on rules and procedures.</li>
                         </ul>
 </p2>
 
                 <h2>Skills</h2>
-                    <p>Pilot – Intermediate, preventative maintenance, before start check list and ability to cooperate and communicate with other pilots to prevent collisions.
-                    <br>
-Ability to work in groups or independently
-Detail oriented and strong organizational skills.
+                    <p>
+                        <ul>
+                            <li>Pilot – Intermediate, preventative maintenance, before start check list and ability to cooperate and communicate with other pilots to prevent collisions.</li>
+                            <li>Ability to work in groups or independently</li>
+                            <li>Detail oriented and strong organizational skills.</li>
 </p>
                 <h3>Education</h3>
                     <p>AA Degree at Normandale Community Center</P>
