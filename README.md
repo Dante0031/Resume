@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
  <div id="header">Nathan Briscoe</d>
-            <div class=".left">(612)807-2839</div>   
-            <div class=".right">N.Briscoe1@gmail.com</div>
             <br>
             <div id="footer"><h1>OBJECTIVE:</h1>
 Obtain a position working in an fun, challenging and fast paced environment.
